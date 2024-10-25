@@ -1,6 +1,6 @@
 
 ![Ecowal Brand](assets/icons/ecowal_brand.png)
-# Ecowal-Presentation   
+# Ecowal-Introduction  
 Hello, this repository describes the technical features of Ecowal and contains no code.
 
 Ecowal is a user-friendly and efficient budget management app, developed with Flutter, to help you track and manage your expenses and income seamlessly. This app integrates various advanced technologies to offer smooth functionality and secure data storage, analytics, and user engagement. Below is a comprehensive overview of Ecowal’s features, technologies, and download links.
